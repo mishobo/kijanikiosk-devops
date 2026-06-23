@@ -1,0 +1,2 @@
+- Engineers frequently need to undo mistakes without damaging the repository history. 
+- Git provides safe mechanisms to restore files or modify commits.
