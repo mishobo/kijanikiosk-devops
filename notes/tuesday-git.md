@@ -13,7 +13,7 @@
 - When changes move from the staging area into the repository history, Git permanently records them as a commit.
 - Developers create commits using the command: git commit -m "commit message"
 
-# Branching Rules
+### Branching Rules
 -  Require a pull request before merging
 -  keep pull requests small and focused
 -  write clear titles that describe the purpose of the change
@@ -21,7 +21,7 @@
 -  provide instructions on how reviewers can verify the change
 -  avoid mixing unrelated changes in a single pull request
 
-# Pull Request Expectations
+### Pull Request Expectations
 - PRs provide early feedback before code reaches production.
 - Automated CI checks can run automatically when a PR is opened.
 - Review discussions create a permanent record explaining the reasoning behind changes.
